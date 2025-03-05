@@ -15,7 +15,7 @@
 
 <h2>Sobre Nosotros 😃</h2>
 <ul align="left">
-  <li>Somos una empresa de desarrollo de software fundada por dos profesionales apasionados: una experta en ciberseguridad y un desarrollador full stack con amplia experiencia en diseño multimedia.</li>
+  <li>Somos una empresa de desarrollo de software fundada por dos profesionales apasionados: una experta en ciberseguridad y un desarrollador full stack con amplia experiencia en análisis y diseño de software a la medida.</li>
   <li>En Millennium‑Soft nos dedicamos a crear soluciones digitales innovadoras, seguras y visualmente impactantes.</li>
   <li>Nuestro stack principal incluye Java con Spring Boot para el backend y Angular para el frontend, complementado con tecnologías como Python, React y JavaScript.</li>
   <li>Contamos con experiencia en el manejo de bases de datos relacionales (SQL Server, PostgreSQL y MySQL) y soluciones no relacionales (Firebase).</li>
